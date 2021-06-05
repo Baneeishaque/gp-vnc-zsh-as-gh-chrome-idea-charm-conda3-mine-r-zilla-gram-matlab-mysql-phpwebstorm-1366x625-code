@@ -26,6 +26,7 @@ image:
   # - command: code-insiders .
   # - command: git clone --depth 1 "https://github.com/Baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code" webstorm-config && rm -rf ~/.config/JetBrains/WebStorm2021.1 && mkdir -p ~/.config/JetBrains && ln -s `pwd`/webstorm-config/WebStorm2021.1-config ~/.config/JetBrains/WebStorm2021.1 && mkdir -p ~/.local/share/JetBrains && ln -s `pwd`/webstorm-config/WebStorm2021.1-local ~/.local/share/JetBrains/WebStorm2021.1 && cd /usr/local/WebStorm-211.7442.26/bin/ && ./webstorm.sh
   # - command: rm -rf ~/.config/JetBrains/RubyMine2021.1 && mkdir -p ~/.config/JetBrains && ln -s `pwd`/RubyMine2021.1-config ~/.config/JetBrains/RubyMine2021.1 && mkdir -p ~/.local/share/JetBrains && ln -s `pwd`/RubyMine2021.1-local ~/.local/share/JetBrains/RubyMine2021.1 && cd /usr/local/RubyMine-2021.1.2/bin/ && ./rubymine.sh
+  # - command: anydesk
 
 ports:
   - port: 5900
