@@ -17,5 +17,6 @@
 ## Additional Tools
 ### &nbsp;&nbsp; - RubyMine : 2021.1.2
 ### &nbsp;&nbsp; - AnyDesk : 6.1.1
+### &nbsp;&nbsp; - Tilda : 1.5.2
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-mine-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code)"
